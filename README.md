@@ -1,4 +1,4 @@
-# Bsaic Setup
+# Basic Setup
 
 The backend uses Mongoose to connect to a MongoDB instance.  The connection string is stored in an environment variable (which is not included in the repo for obvious reasons).
 Using NPM, install DOTENV.
